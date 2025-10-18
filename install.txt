@@ -1,1 +1,1 @@
-xorg-server libxft libxinerama noto-fonts pulseaudio pulsemixer brightnessctl xorg-xrandr maim xclip
+xorg-server libxft libxinerama noto-fonts pulseaudio pulsemixer brightnessctl xorg-xrandr maim xclip xorg-xinit
